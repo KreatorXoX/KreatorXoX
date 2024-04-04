@@ -10,6 +10,12 @@ I'm Gorkem, a seasoned Civil Engineer turned passionate Developer with 7 years o
 With a solid foundation in Civil Engineering, I've honed my problem-solving skills and attention to detail. Now, I apply that same diligence to crafting robust and efficient software solutions.
 
 ## 🌱 Learning
-I believe in continuous learning and staying on the cutting edge of technology. Currently exploring new frontiers in Python and diving deeper into Trading with the help of ML.
+I'm currently excited about Web3 and ML,
+
+This profile is like my online notebook where I keep track of what I'm learning. You'll find code examples, projects I'm working on, and experiments I'm trying.
+
+Feel free to look around! If you know something about Web3, ML or React/Nextjs in general, let me know! I'd love to learn from you. 
+
+Let's build the future of the internet together!
 
 Excited to collaborate, innovate, and contribute to the world of software development! 🚀
